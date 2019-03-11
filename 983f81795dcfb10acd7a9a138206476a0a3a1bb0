@@ -1,0 +1,8 @@
+Code-Review+1: Yuan Yao <yao.yuan@hxt-semitech.com>
+Code-Review+2: Brad Bishop <bradleyb@fuzziesquirrel.com>
+Verified+1: Brad Bishop <bradleyb@fuzziesquirrel.com>
+Submitted-by: Brad Bishop <bradleyb@fuzziesquirrel.com>
+Submitted-at: Mon, 11 Mar 2019 20:42:11 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/17687
+Project: openbmc/meta-hxt
+Branch: refs/heads/master
