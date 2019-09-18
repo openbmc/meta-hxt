@@ -1,0 +1,9 @@
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Code-Review+2: Brad Bishop <radsquirrel@gmail.com>
+Ok-To-Test+1: Brad Bishop <radsquirrel@gmail.com>
+Verified+1: Brad Bishop <radsquirrel@gmail.com>
+Submitted-by: Brad Bishop <radsquirrel@gmail.com>
+Submitted-at: Wed, 18 Sep 2019 20:48:20 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-hxt/+/25188
+Project: openbmc/meta-hxt
+Branch: refs/heads/master
